@@ -1,3 +1,14 @@
+## About Simple-Food-Log
+
+I created the Simple Food Log as a fun refresher so that I can spend more time writing code than looking up pure concepts when working on my full fledged food diary log. Full fledged app coming soon!
+
+
+
+
+
+
+#######################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
